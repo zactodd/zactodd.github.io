@@ -1,5 +1,6 @@
-<a href=”https://www.linkedin.com/in/zachary-todd-5aab9b118/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-
+[![Linkedin: zactodd](https://img.shields.io/badge/-zactodd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachary-todd-5aab9b118/)](https://www.linkedin.com/in/zachary-todd-5aab9b118/)
+[![GitHub zactodd](https://img.shields.io/github/followers/zactodd?label=follow&style=social)](https://github.com/zactodd)                                                             
+                                                             
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zactodd/zactodd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
